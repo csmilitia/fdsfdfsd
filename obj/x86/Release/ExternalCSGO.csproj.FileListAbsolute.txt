@@ -1,0 +1,11 @@
+C:\Users\bobe\Desktop\ExternalCSGO-master\External-CSGO\obj\x86\Release\ExternalCSGO.csproj.CoreCompileInputs.cache
+C:\Users\bobe\Desktop\ExternalCSGO-master\External-CSGO\bin\x86\Release\SimpleExternalCSGOCheat.exe
+C:\Users\bobe\Desktop\ExternalCSGO-master\External-CSGO\bin\x86\Release\SimpleExternalCSGOCheat.pdb
+C:\Users\bobe\Desktop\ExternalCSGO-master\External-CSGO\obj\x86\Release\SimpleExternalCSGOCheat.exe
+C:\Users\bobe\Desktop\ExternalCSGO-master\External-CSGO\obj\x86\Release\SimpleExternalCSGOCheat.pdb
+C:\Users\bobe\Desktop\External by bobe\External-CSGO\bin\x86\Release\SimpleExternalCSGOCheat.exe
+C:\Users\bobe\Desktop\External by bobe\External-CSGO\bin\x86\Release\SimpleExternalCSGOCheat.pdb
+C:\Users\bobe\Desktop\External by bobe\External-CSGO\obj\x86\Release\ExternalCSGO.csproj.CoreCompileInputs.cache
+C:\Users\bobe\Desktop\External by bobe\External-CSGO\obj\x86\Release\SimpleExternalCSGOCheat.exe
+C:\Users\bobe\Desktop\External by bobe\External-CSGO\obj\x86\Release\SimpleExternalCSGOCheat.pdb
+C:\Users\bobe\Desktop\External by bobe\External-CSGO\obj\x86\Release\ExternalCSGO.csprojAssemblyReference.cache
